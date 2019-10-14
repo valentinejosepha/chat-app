@@ -25,7 +25,7 @@ p {
 
 /* Status text */
 .Contact .status .status-text {
-  display: initial;
+  display: flex;
   color: #999;
   margin: 0;
 }
